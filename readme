@@ -1,4 +1,6 @@
-yeah what to write here:
+Presenting an Adventure Game based on Mario, a simple platformer created using Pygame as a first-year Python project. 
+In this game, you control your avatar, navigating through various levels, collecting coins, and defeating enemies. 
+The game features classic gameplay with multiple levels, ensuring an exciting experience. 
 
-STILL UNDER DEVELOPMENT
-categorisation and index will be provided
+To get started, clone the repository, install the required Pygame library, and run the game using Python.
+
