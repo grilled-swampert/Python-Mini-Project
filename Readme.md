@@ -5,4 +5,4 @@
 ### To get started, clone the repository, install the required Pygame library, and run the game using Python.
 
 ## Photos:
-![In-Game Photo](https://drive.google.com/file/d/1klA7u1_erEWHaPNl2uo76y8kvifigjEG/view?usp=sharing)
+![Screenshot 2024-10-13 201211](https://github.com/user-attachments/assets/f22e195e-731b-438f-a723-7bbd88064b7b)
